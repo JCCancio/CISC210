@@ -1,0 +1,5 @@
+As a safe and law abiding driver, I would like to filter the unlawful/bad drivers off the road.
+
+- Drivers must have a driver's license.
+- Drivers must have car insurance.
+- Cars must be registered to DMV.
